@@ -160,7 +160,7 @@ const Qualifications = () => {
                 <h3 className="qualification__title">Executive Producer </h3>
                 <span className="qualification__subtitle">The NEXT</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2020-Present
+                  <i className="uil uil-calendar-alt"></i> 2020-2024
                 </div>
               </div>
             </div>
@@ -173,7 +173,7 @@ const Qualifications = () => {
                   GMO-Z.com ACE Co., Ltd.
                 </span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2022- Present
+                  <i className="uil uil-calendar-alt"></i> 2022- 2025
                 </div>
               </div>
               <div>
