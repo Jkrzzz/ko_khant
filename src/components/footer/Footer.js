@@ -25,7 +25,7 @@ const Footer = () => {
         </ul>
         <div className="footer__social">
           <a
-            href="https://www.instagram.com/heinhtet_jkrz/"
+            href="https://www.instagram.com/thenigma_diary"
             className="footer__social-link"
             target="_blank"
             rel="noopener noreferrer"
@@ -33,20 +33,28 @@ const Footer = () => {
             <i className="bx bxl-instagram"> </i>
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://www.tiktok.com/@allhailtycoon33?_r=1&_t=ZS-9341q49LgIR"
             className="footer__social-link"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i className="bx bxl-twitter"></i>
+            <i className="bx bxl-tiktok"></i>
           </a>
           <a
-            href="https://www.facebook.com/hein.htet.10420"
+            href="https://www.facebook.com/kktheenigma"
             className="footer__social-link"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="bx bxl-facebook"></i>
+          </a>
+                   <a
+            href="https://www.youtube.com/@allhailtycoon"
+            className="footer__social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="bx bxl-youtube"></i>
           </a>
         </div>
         <span className="footer__copy">

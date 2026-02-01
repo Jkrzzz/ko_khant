@@ -62,7 +62,7 @@ const Data = () => {
             autoStart: true,
             loop: true,
             delay: 40,
-            strings: ["Sale Executive", "Executive Producer", "Studio Owner"],
+            strings: ["Sales & Marketing Executive ", "Marketing Consultant", "Executive Producer"],
           }}
         ></TypewriterComponent>
       </h3>
