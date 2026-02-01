@@ -160,7 +160,7 @@ const Qualifications = () => {
                 <h3 className="qualification__title">Executive Producer </h3>
                 <span className="qualification__subtitle">The NEXT</span>
                 <div className="qualification__calendar">
-                  <i className="uil uil-calendar-alt"></i> 2020-2024
+                  <i className="uil uil-calendar-alt"></i> 2020-2022
                 </div>
               </div>
             </div>
