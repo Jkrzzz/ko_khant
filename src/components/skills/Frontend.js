@@ -10,17 +10,14 @@ const Frontend = () => {
             <div>
               <h3 className="skills__name">GMO-Z.com ACE Co., Ltd.</h3>
               <span className="skills__level">
-                Presently, I represent the position of Sales & Marketing
+                In GMO Z.com, I represented the position of Sales & Marketing 
                 Executive at " Z.com Myanmar: Internet Infrastructure Services
-                Provider," a subsidiary of the GMO Internet Group with a global
-                presence. My role entails overseeing B2B sales operations,
-                including the sale of domains, email services, website
-                development services, and cloud services. I'm responsible for
-                Sales documentation (Before & After payment) and client
-                complaints by methodically investigating issues and finding
-                effective solutions. Additionally, I am actively involved in
-                content marketing and social media operations for Facebook and
-                YouTube.
+                Provider," a subsidiary of the GMO Internet Group Japan and Thailand 
+                teams with a global presence. My role entails overseeing B2B sales 
+                operations, including the sale of domains, email services, website 
+                development services and cloud server services. I'm responsible for
+                Sales documentation (Before & After payment) and client complaints by 
+                methodically investigating issues and finding effective solutions.
               </span>
             </div>
           </div>

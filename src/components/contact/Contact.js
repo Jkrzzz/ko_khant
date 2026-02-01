@@ -28,8 +28,8 @@ const Contact = () => {
             <div className="contact__card">
               <i className="bx bx-phone contact__card-icon">
                 <h3 className="contact__card-title">Phone</h3>
-                <span className="contact__card-data">+959-966-336-725</span>
-                <a href="tel:+959966336725" className="contact__button">
+                <span className="contact__card-data">+66-993-602-672</span>
+                <a href="tel:+66993602672" className="contact__button">
                   Write me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
